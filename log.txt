@@ -1484,3 +1484,4 @@ logger=installer.fs t=2025-07-28T12:57:01.999007792Z level=info msg="Downloaded 
 logger=plugins.registration t=2025-07-28T12:57:02.093980811Z level=info msg="Plugin registered" pluginId=grafana-lokiexplore-app
 logger=plugin.backgroundinstaller t=2025-07-28T12:57:02.09411634Z level=info msg="Plugin successfully installed" pluginId=grafana-lokiexplore-app version= duration=1.960645376s
 logger=infra.usagestats t=2025-07-28T12:57:52.003929039Z level=info msg="Usage stats are ready to report"
+  
